@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e100b251f37800745acfea0618ebcb30
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Melon Honey
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 207604ad5e90aab4c9c35a3e7c42598d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
