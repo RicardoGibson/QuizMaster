@@ -9,9 +9,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 0}
+  m_Script: {fileID: 11500000, guid: 00705337bc91db2469950a34c28a413c, type: 3}
   m_Name: New Question 3
   m_EditorClassIdentifier: Assembly-CSharp::QuestionSO
-  question: 'Where do you go to get help with tutoring?
-
-'
+  question: Enter new question text here
+  answers:
+  - 
+  - 
+  - 
+  - 
+  correctAnswerIndex: 0
